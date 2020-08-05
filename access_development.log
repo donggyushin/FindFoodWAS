@@ -61,3 +61,8 @@
 ::1 - - [04/Aug/2020:07:19:40 +0000] "POST /api/user HTTP/1.1" 202 113
 ::1 - - [04/Aug/2020:07:19:56 +0000] "POST /api/user HTTP/1.1" 202 113
 ::1 - - [04/Aug/2020:07:34:04 +0000] "POST /api/user HTTP/1.1" 200 196
+::1 - - [05/Aug/2020:04:55:04 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:04:56:23 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:04:57:34 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:04:58:15 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:04:59:41 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 102
