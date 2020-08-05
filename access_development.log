@@ -66,3 +66,7 @@
 ::1 - - [05/Aug/2020:04:57:34 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
 ::1 - - [05/Aug/2020:04:58:15 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 11
 ::1 - - [05/Aug/2020:04:59:41 +0000] "GET /api/address?longitude=127.05076&latitude=37.50300 HTTP/1.1" 200 102
+::1 - - [05/Aug/2020:05:48:05 +0000] "GET /api/foods?area1Name=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C&area2Name=%EB%85%B8%EC%9B%90%EA%B5%AC&area3Name=%EA%B3%B5%EB%A6%89 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:05:49:19 +0000] "GET /api/foods?area1Name=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C&area2Name=%EB%85%B8%EC%9B%90%EA%B5%AC&area3Name=%EA%B3%B5%EB%A6%89 HTTP/1.1" 200 11
+::1 - - [05/Aug/2020:05:53:37 +0000] "GET /api/foods?area1Name=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C&area2Name=%EB%85%B8%EC%9B%90%EA%B5%AC&area3Name=%EA%B3%B5%EB%A6%89 HTTP/1.1" 200 174558
+::1 - - [05/Aug/2020:10:45:51 +0000] "GET /api/foods?area1Name=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C&area2Name=%EB%85%B8%EC%9B%90%EA%B5%AC&area3Name=%EA%B3%B5%EB%A6%89 HTTP/1.1" 200 174557

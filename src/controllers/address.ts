@@ -28,6 +28,7 @@ export const getAddressByGeoLocation = (req: Request, res: Response) => {
         area1Name,
         area2Name,
         area3Name,
+        error: null,
       });
     })
     .catch((err) => {

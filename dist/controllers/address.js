@@ -32,6 +32,7 @@ exports.getAddressByGeoLocation = (req, res) => {
             area1Name,
             area2Name,
             area3Name,
+            error: null,
         });
     })
         .catch((err) => {
